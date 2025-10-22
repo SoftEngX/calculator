@@ -12,12 +12,13 @@ body {
 }
 
 .calculator {
-  width: 470px;
-  height: 650px;
+  width: 490px;
+  height: 670px;
+  margin: 150px auto;
+  padding: 10px;
   background-color: #000;
   border-radius: 25px;
-  padding: 15px;
-  margin: 150px 0;
+  box-shadow: 0 10px 20px ;
 }
 
 .display {
