@@ -28,8 +28,8 @@ body {
 }
 
 .display {
-  /* color: #fff; */
-  color: black;
+  color: #fff;
+  /* color: black; */
   font-size: 70px;
   text-align: end;
   padding: 20px;
